@@ -18,7 +18,7 @@ var cadena = "redonda"
 // Number - numeros
 var numero = 1
 
-// Boolan - booleanos
+// Boolan - booleanos (true:verdader y false:falso)
 var booleano = true;
 
 // Array - arreglo
